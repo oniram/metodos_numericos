@@ -1,4 +1,4 @@
-t,Juros Calculado pelo Algoritmo,Juro Real,Erro Relativo
+t,juros_calculado_algoritmo,juros_real,erro_relativo
 1,"0,01","0,01",0
 2,"0,02","0,02",0
 3,"0,03","0,03",0
